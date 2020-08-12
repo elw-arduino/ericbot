@@ -1,0 +1,2 @@
+# ericbot
+quotes for ericbot
