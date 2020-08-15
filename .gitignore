@@ -1,3 +1,4 @@
 *
 !*.gitignore
 !quotes *.txt
+!README.md
