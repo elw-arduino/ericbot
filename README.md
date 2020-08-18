@@ -8,7 +8,7 @@ Ericbot was initially intended to be a fun interactive twitch bot. However missu
 # Quotes
 The quotes for a community/channel are stored in the respective quotes <channelname>.txt file
 Ericbot indexes the quotes starting at 0 so the quote on line one is quote 0 in ericbot.
-Quotes can be suggested by using the !suggesquote command. However ericw9079 reserves the right to edit and or decline any and all quotes submitted to ericbot, this is to ensure that they always align with his and the communities values and standards. All suggested quotes must be relevant to the community for which they are suggested.
+Quotes can be suggested by using the !suggestquote command. However ericw9079 reserves the right to edit and or decline any and all quotes submitted to ericbot, this is to ensure that they always align with his and the communities values and standards. All suggested quotes must be relevant to the community for which they are suggested.
 
 # Reputation
 Missuse of ericbot has resulted in the implementation of a reputation subsystem.
