@@ -1,6 +1,7 @@
 # About Ericbot
 Ericbot is a closed source community driven twitch bot, run by ericw9079.
 On twitch ericbot goes by ericw9079_bot hereinafter referred to as ericbot.
+Ericbot admins are twitch users who have been issued admin by ericw9079.
 
 Ericbot was initially intended to be a fun interactive twitch bot. However missuse of ericbot has required policies and subsystems to be implemented.
 
@@ -14,7 +15,7 @@ Missuse of ericbot has resulted in the implementation of a reputation subsystem.
 Your ericbot reputation defines which commands you are allowed to use and is global, meaning it is persistant accross channels.
 Should your reputation fall below 0, ericbot will not respond to any command you issue.
 Your reputation is increased by being nice to ericbot, or using ericbot to be nice to the community. (ie. saying hello, goodbye, etc.)
-Your reputation is decreased bye being mean/toxic to ericbot and the community. (ie.using !bop or swearing)
+Your reputation is decreased by being mean/toxic to ericbot and the community. (ie.using !bop or swearing)
 Any questions about reputation can be directed to ericw9079 or an ericbot admin.
 
 # Can I farm reputation?
