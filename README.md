@@ -40,8 +40,11 @@ Note for twitch-mods of the channels ericbot operates within: Some of the cooldo
 Depending on your reputation with ericbot, you gain access to different command categories, do note that if you're a mod of the channel ericbot is currently in, you automatically bypass the reputation checks on the different commands, giving you full access.
 
 Mod Commands: !cooldown (toggle cooldown for commands), !setcooldown <seconds>, !antiswear
+
 Trusted Commands: !marbles
+
 Liked Commands: !cuterating, !leaderboard [page] !sleep <user>, !suggestquote <quote>
+
 Disliked Commands: !hydrate, !posture, !meatflower, !quote [quote number], !rickroll, !rickrolled, !goodbot @ericw9079_bot, !bop <user>, !cutie <user>, !legend <user>, !hello <user>, !goodbye <user>, !swear <user>, !reputation <user>, !donation, !giles, !noed, ?policy <policy>, !escape (1), !escapes (1), !respect (1), !respected (1), !reset <counter> (1), !record (1).
 
 Please note that commands followed by (1) are available on specific channels only.
