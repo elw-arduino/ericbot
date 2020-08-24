@@ -53,3 +53,6 @@ Please note that commands followed by (1) are available on specific channels onl
 # Links
 Wish to have your reputation reset? If so, you can ask for this using the following link:
 https://forms.gle/MvnRFeUjmjcne6cp9
+
+Intrested in becoming and ericbot admin? If so, you can apply using the following link:
+https://forms.gle/xj2zs3iAbvHP6FYN8
