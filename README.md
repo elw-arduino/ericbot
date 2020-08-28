@@ -51,8 +51,8 @@ Disliked Commands: !hydrate, !posture, !meatflower, !quote [quote number], !rick
 Please note that commands followed by (1) are available on specific channels only.
 
 # Links
-Wish to have your reputation reset? If so, you can ask for this using the following link:
+Wish to have your reputation reset? If so, you can request this using the following link:
 https://forms.gle/MvnRFeUjmjcne6cp9
 
-Interested in becoming and Ericbot admin? If so, you can apply using the following link:
+Interested in becoming an Ericbot admin? If so, you can apply using the following link:
 https://forms.gle/xj2zs3iAbvHP6FYN8
