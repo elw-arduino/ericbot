@@ -40,8 +40,7 @@ Note for twitch-mods of the channels Ericbot operates within: Some of the cooldo
 ## Command list
 Depending on your reputation with Ericbot, you gain access to different command categories, do note that if you're a mod of the channel Ericbot is currently in, you automatically bypass the reputation checks on the different commands, giving you full access.
 
-Mod Commands: !cooldown (toggle cooldown for commands), !setcooldown <seconds>, !antiswear
-
+Mod Commands: !cooldown (toggle cooldown for commands), !setcooldown <seconds>
 Trusted Commands: !marbles
 
 Liked Commands: !cuterating, !leaderboard [mode] [page] !sleep <user>, !suggestquote <quote>
