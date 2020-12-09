@@ -49,7 +49,7 @@ Liked Commands: !cuterating, !leaderboard [mode] [page] !sleep <user>, !suggestq
 Disliked Commands: !hydrate, !posture, !meatflower, !quote [quote number], !rickroll, !rickrolled, !goodbot @ericw9079_bot, !bop <user>, !cutie <user>, !legend <user>, !hello <user>, !goodbye <user>, !swear <user>, !reputation <user>, !donation, !giles, !noed, ?policy <policy>, !escape (1), !escapes (1), !respect (1), !respected (1), !reset <counter> (1), !record (1).
 
 Please note that commands followed by (1) are available on specific channels only.
-Please also note that the reputation requirements for commands followed by (2) is not overridden by mods.
+Please also note that the reputation requirements for commands followed by (2) are not overridden by mods.
 
 # Links
 Wish to have your reputation reset? If so, you can request this using the following link:
