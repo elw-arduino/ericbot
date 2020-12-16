@@ -1,6 +1,4 @@
 *
 !*.gitignore
-!quotes flippct.txt
-!quotes baghetti_.txt
+!quotes *.txt
 !README.md
-quotes irepptar.txt
