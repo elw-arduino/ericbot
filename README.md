@@ -52,6 +52,8 @@ Please note that commands followed by (1) are available on specific channels onl
 Please also note that the reputation requirements for commands followed by (2) are not overridden by mods.
 
 # Links
+Ericbot Discord: https://discord.gg/bWxq2G3JhE
+
 Wish to have your reputation reset? If so, you can request this using the following link:
 https://forms.gle/MvnRFeUjmjcne6cp9
 
