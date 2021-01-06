@@ -1,4 +1,5 @@
 # NOTICE: This project is no longer active
+Discord link in [the link section](#links)
 
 # About Ericbot
 Ericbot is a closed source community driven twitch bot, run by ericw9079.
