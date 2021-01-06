@@ -1,3 +1,5 @@
+# NOTICE: This project is no longer active
+
 # About Ericbot
 Ericbot is a closed source community driven twitch bot, run by ericw9079.
 On twitch Ericbot goes by ericw9079_bot hereinafter referred to as Ericbot.
