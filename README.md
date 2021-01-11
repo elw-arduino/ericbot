@@ -2,7 +2,7 @@
 Discord link in [the link section](#links)
 
 # About Ericbot
-Ericbot is a closed source community driven twitch bot, run by ericw9079.
+Ericbot was a closed source community driven twitch bot, run by ericw9079.
 On twitch Ericbot goes by ericw9079_bot hereinafter referred to as Ericbot.
 Ericbot admins are twitch users who have been issued admin by ericw9079.
 
